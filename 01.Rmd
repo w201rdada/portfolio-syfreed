@@ -1,24 +1,17 @@
-# My first cool idea {#slug-one}
+# **Blind Auditions for Politics:** Where "Civil" Discourse Begins {#civil-discourse}
 
 #### Keywords {-}
 
-yaba, daba, do
+politics, democracy, vote, elections, cognitive bias
 
-## A beginning.
+## Ideology versus Identity Voting Behaviour
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+An individual's geography, culture, friends, and family are much more likely to influence whether or not an American supports a particular political candidate as opposed to the candidate's voting record, even if the candidate has historically voted against the individual's interest.
 
-## A middle.
+## Strip the Identity from Politics
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Just as the "Big Five" personality model (Costa & McCrae, 1992, and Norman, 1963) aims to represent how a person engages with the world, the Civil Discourse platform will create a *political* profile of a user based on how they prioritize the importance of a given set of political ideologies without regard for party affiliation. The user will then similarly rate a number of bill summaries based on how they perceive the contents of the bill is relevant to the previously established political ideology criteria. These bills and their corresponding user ratings will serve to train a natural language processing model to assign political ideology weights to a much broader set of legislation or any future bills. It will then be possible to create a political profile for politicians based on their voting record and the political ideology weights assigned to the legislation they support.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+## Informed Voting
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
-
-## An end.
-
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+By participating in the Civil Discourse platform, the user will be able to determine how congruent a given political candidate is to their own values based on their voting record as opposed to their personality or brand. 
