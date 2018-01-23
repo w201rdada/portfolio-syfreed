@@ -1,17 +1,23 @@
-# **Blind Auditions for Politics:** Where "Civil" Discourse Begins {#civil-discourse}
+# **Political Counseling:** Where "Civil" Discourse Begins {#civil-discourse}
 
 #### Keywords {-}
 
-politics, democracy, vote, elections, cognitive bias
+politics, democracy, vote, elections, cognitive bias, tribalism
 
-## Ideology versus Identity Voting Behaviour
+## Tribalism in American Politics
 
-An individual's geography, culture, friends, and family are much more likely to influence whether or not an American supports a particular political candidate as opposed to the candidate's voting record, even if the candidate has historically voted against the individual's interest.
+Because there is an explicit “winner” and “loser” in each election, there is a natural propensity for voters to adopt an “us” versus “them” mentality. Further, an individual is much more likely to be influenced by their geography, class, friends, and family when supporting a candidate as opposed to their own political ideals. Upon identifying with a particular party, the political divide is further entrenched by social media and preferred news outlets that validate and reinforce their party’s rhetoric.
 
-## Strip the Identity from Politics
+Most efforts to address the dysfunctional political landscape of our country focus on boosting voter turnout or rallying support for a particular party, concern, or politician. However, our country will become increasingly polarized without an effort to improve the way we communicate with each other regarding important issues impacting the nation. The Civil Discourse web app aims to be an interactive tool where a user can identify their individual political priorities and become introduced to politicians with similar views regardless of party. By focusing on commonalities and obfuscating party lines, Civil Discourse intends to introduce nuance and respect to our nation's dialogue.
 
-Just as the "Big Five" personality model (Costa & McCrae, 1992, and Norman, 1963) aims to represent how a person engages with the world, the Civil Discourse platform will create a *political* profile of a user based on how they prioritize the importance of a given set of political ideologies without regard for party affiliation. The user will then similarly rate a number of bill summaries based on how they perceive the contents of the bill is relevant to the previously established political ideology criteria. These bills and their corresponding user ratings will serve to train a natural language processing model to assign political ideology weights to a much broader set of legislation or any future bills. It will then be possible to create a political profile for politicians based on their voting record and the political ideology weights assigned to the legislation they support.
+## Prioritizing Political Ideals
 
-## Informed Voting
+Just as the "Big Five" personality model (Costa & McCrae, 1992, and Norman, 1963) aims to represent how a person engages with the world, the Civil Discourse web app will create a *political* profile of current American congressmen and senators based on their position on previous legislation. An initial dataset, with each bill rated according to its relevance to a set of ideals such as immigration, social insurance, individual rights & freedoms, taxation, energy, and military, will be used as input for a machine learning model that will predict a politician’s position on each of these areas depending on their voting record.
 
-By participating in the Civil Discourse platform, the user will be able to determine how congruent a given political candidate is to their own values based on their voting record as opposed to their personality or brand. 
+A user of the Civil Discourse web app will specify the political party he/she currently identifies with and answer a series of questions that will produce a political profile of the individual. Instead of matching the user with a politician that is most congruent overall with his/her own views as is often done, the Civil Discourse web app will list politicians from other parties with similar weights on the distinct ideals that were emphasized most strongly on the user’s political profile along with summaries of specific bills the politician supported and talking points relevant to the matching ideal.
+
+## Start Talking (and Listening)
+
+There are two hopeful outcomes from using the Civil Discourse web app. The user will 1) focus on commonalities between parties to speak more respectfully regarding differences & 2) vote for a politician based on voting record as opposed to rhetoric. For example, a politician may claim to support the military but then fail to support a measure that would continue paying military personnel during a government shutdown.
+
+In many ways, the dynamic between America’s two major political parties is similar to that of a broken marriage. The focus has shifted from wanting to solve the nation’s problems to winning at all costs. There are a number of cognitive biases that contribute to this problem, and it is likely that those that are already open-minded to differing viewpoints will be attracted to this tool. However, the most fundamental action towards a more productive future is to start talking and listening.
