@@ -1,5 +1,9 @@
 # Quantitative Therapy {#quantitative-therapy}
 
+#### Abstract {-}
+
+(ref:abs2)
+
 #### Keywords {-}
 
 mental health, cognitive behavioral therapy, medication management, psychiatry, sentiment analysis
