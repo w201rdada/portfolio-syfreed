@@ -1,5 +1,9 @@
 # **Political Counseling:** Where "Civil" Discourse Begins {#civil-discourse}
 
+#### Abstract {-}
+
+(ref:abs1)
+
 #### Keywords {-}
 
 politics, democracy, vote, elections, cognitive bias, tribalism
